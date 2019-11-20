@@ -1,0 +1,6 @@
+owner=255429901891403778
+prefix=k
+game=Khaled
+stayinchannel=true
+songinstatus=false
+token=NjQ2NzU3NDE2NTUzNDE0NjY1.XdVx0A.PexRTPrtOXMWAu4Yy3xGX0sZ2cM
